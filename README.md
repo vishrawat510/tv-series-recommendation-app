@@ -1,2 +1,2 @@
-# tv-series-recommendation-app
+# Games_Dictionary
 Created with CodeSandbox
